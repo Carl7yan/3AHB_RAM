@@ -1,0 +1,20 @@
+# Automatically identify and compile all the source files in the project directory.
+# DO NOT explicitly list files/directories in 'dvt_auto_init' sections. Use 'dvt_init' sections instead.
++dvt_init
+-uvm
++incdir+uvm/reg
++incdir+uvm/cfg
++incdir+uvm/cov
++incdir+uvm/env
++incdir+uvm/seq_lib
++incdir+uvm/seq_lib/elem_seqs
++incdir+uvm/test
++incdir+uvm/vip_lib/lvc_ahb
++incdir+uvm/vip_lib/lvc_ahb/sequence_lib
+
+verilog/ahb_blockram_32.v
+uvm/vip_lib/lvc_ahb/lvc_ahb_pkg.sv
+uvm/vip_lib/lvc_ahb/lvc_ahb_if.sv
+uvm/env/rkv_ahbram_pkg.sv
+uvm/tb/rkv_ahbram_if.sv
+uvm/tb/rkv_ahbram_tb.sv
