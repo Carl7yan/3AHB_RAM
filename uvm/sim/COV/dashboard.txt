@@ -1,0 +1,21 @@
+Dashboard
+
+Date: Wed Jan 11 13:54:03 2023
+
+User: carl
+
+Version: O-2018.09-SP2
+Command line: urg -format both -full64 -dir out/cov.vdb
+Number of tests: 5
+
+-------------------------------------------------------------------------------
+Total Coverage Summary 
+SCORE  GROUP  
+ 71.05  71.05 
+
+
+-------------------------------------------------------------------------------
+Total Groups Coverage Summary 
+SCORE  WEIGHT 
+ 71.05 1      
+

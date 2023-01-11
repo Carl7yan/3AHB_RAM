@@ -1,0 +1,29 @@
+<session version="1.1" release="O-2018.09-SP2" timestp="2023-01-11 05:53:47 GMT">
+  <info>
+    <attr name="datetime" value="Wed Jan 11 13:54:03 2023
+"/>
+    <attr name="command" value="urg -format both -full64 -dir out/cov.vdb"/>
+  </info>
+  <hvp>
+    <datadef>
+      <metdef name="Group" type="percent" aggregator="average" builtin="1" />
+    </datadef>
+  </hvp>
+  <old_coverage>
+  <scope type="top" name="top">
+    <metric name="Group" value="71.0526%" />
+  </scope>
+  <scope type="instance" name="top">
+  </scope>
+  <scope type="group" name="top">
+    <scope type="group" name="rkv_ahbram_pkg::rkv_ahbram_cov::rkv_ahbram_t2_type_size_cg">
+      <metric name="Group" value="50%" />
+    </scope>
+    <scope type="group" name="rkv_ahbram_pkg::rkv_ahbram_cov::rkv_ahbram_t1_address_cg::SHAPE{addr_end=65535,addr_start=0}">
+      <metric name="Group" value="92.1053%" />
+    </scope>
+  </scope>
+  <scope type="assert" name="Statistics">
+  </scope>
+  </old_coverage>
+</session>

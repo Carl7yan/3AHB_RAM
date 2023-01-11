@@ -8,7 +8,7 @@ COV      ?= 0
 DOTCL    ?= 1
 VERB     ?= UVM_HIGH
 OUT      ?= out
-TESTNAME ?= rkv_ahbram_diff_hsize_test
+TESTNAME ?= rkv_ahbram_reset_w2r_test
 DFILES  	= ../../verilog/ahb_blockram_32.v
 
 VFILES   +=  ../vip_lib/lvc_ahb/lvc_ahb_pkg.sv \

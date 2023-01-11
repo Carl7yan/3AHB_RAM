@@ -1,0 +1,16 @@
+Tests
+
+Total Coverage Summary 
+SCORE  GROUP  
+ 71.05  71.05 
+
+
+Total tests in report: 5
+-------------------------------------------------------------------------------
+Data from the following tests was used to generate this report
+out/cov/rkv_ahbram_reset_w2r_test_1            
+out/cov/rkv_ahbram_diff_hsize_test_1           
+out/cov/rkv_ahbram_diff_haddr_test_1           
+out/cov/rkv_ahbram_haddr_word_unaligned_test_1 
+out/cov/rkv_ahbram_smoke_test_1                
+

@@ -1,0 +1,13 @@
+Testbench Group List
+
+Total Groups Coverage Summary 
+SCORE  WEIGHT 
+ 71.05 1      
+
+
+Total groups in report: 2
+-------------------------------------------------------------------------------
+SCORE  WEIGHT GOAL   AT LEAST PER INSTANCE AUTO BIN MAX PRINT MISSING COMMENT NAME                                                                                         
+ 50.00 1      100    1        0            64           64                    rkv_ahbram_pkg::rkv_ahbram_cov::rkv_ahbram_t2_type_size_cg                                   
+ 92.11 1      100    1        0            64           64                    rkv_ahbram_pkg::rkv_ahbram_cov::rkv_ahbram_t1_address_cg::SHAPE{addr_end=65535,addr_start=0} 
+
